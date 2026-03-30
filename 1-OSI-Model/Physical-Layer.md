@@ -4,16 +4,16 @@ layer:
 status: not-started
 tags:
   - networking
-created:
-  "{ date }":
-updated:
-  "{ date }":
+  - physical-layer
+  - osi
+created: 2026-03-30
+updated: 2026-03-30
 ---
 
-# {{title}}
+# Physical Layer
 
 ## Belongs To
-- Parent: 
+- Parent: [[1-OSI-Model]]
 
 ---
 

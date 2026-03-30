@@ -5,6 +5,7 @@ status: not-started
 tags:
   - networking
   - fundamentals
+  - osi
 created: 2026-03-30
 updated: 2026-03-30
 ---
