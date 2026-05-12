@@ -1,2 +1,2 @@
 # learn-networking
-Obsidian vault about Networking Technology
+Obsidian vault about Computer Science
